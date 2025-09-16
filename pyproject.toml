@@ -1,0 +1,7 @@
+[project]
+name = "dawn"
+version = "0.1.0"
+description = "This is a discord bot project"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
